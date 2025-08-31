@@ -151,10 +151,10 @@ src/
 #### 📈 Engagement Scoring Engine
 Our proprietary algorithm analyzes multiple factors:
 
-- **📝 Content Length**: Optimal 100-250 words (+20 points)
-- **❓ Question Engagement**: Each question mark (+10 points)
-- **🎯 Call-to-Action**: Action words detection (+15 points)
-- **😊 Emoji Usage**: Visual engagement elements (+5 points each)
+- **📝 Content Length**: Optimal 100-250 words
+- **❓ Question Engagement**: Each question mark 
+- **🎯 Call-to-Action**: Action words detection 
+- **😊 Emoji Usage**: Visual engagement elements
 - **🔗 Social Elements**: Hashtags and mentions bonus
 
 #### 📚 Readability Analysis
