@@ -91,7 +91,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/social-media-analyzer.git
+   git clone https://github.com/Er-Priyanshi-Gupta/social-media-analyzer.git
    cd social-media-analyzer
    ```
 
