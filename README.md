@@ -2,13 +2,13 @@
 
 <div align="center">
 
-![Social Media Content Analyzer](https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
+<img src="projects/public/webpage.png" alt="Social Media Content Analyzer" width="1200" height="400" />
 
-**AI-Powered Content Optimization for Maximum Social Media Engagement**
+AI-Powered Content Optimization for Maximum Social Media Engagement
 
-[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)  
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)  
 [![Vite](https://img.shields.io/badge/Vite-5.4.2-646CFF?style=flat-square&logo=vite)](https://vitejs.dev/)
 
 [🎯 Live Demo](#) • [📖 Documentation](#features) • [🚀 Quick Start](#quick-start) • [🤝 Contributing](#contributing)
