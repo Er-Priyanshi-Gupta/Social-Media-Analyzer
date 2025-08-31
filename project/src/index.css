@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+.poppins-text {
+  font-family: "Poppins", sans-serif;
+}
+
+@layer utilities {
+  .shadow-pink-lg {
+    box-shadow: 0 10px 25px -5px rgba(236, 72, 153, 0.15), 0 8px 10px -6px rgba(236, 72, 153, 0.1);
+  }
+  
+  .shadow-pink-md {
+    box-shadow: 0 6px 15px -3px rgba(236, 72, 153, 0.12), 0 4px 6px -4px rgba(236, 72, 153, 0.1);
+  }
+  
+  .shadow-pink-sm {
+    box-shadow: 0 4px 8px -2px rgba(236, 72, 153, 0.15), 0 2px 4px -2px rgba(236, 72, 153, 0.1);
+  }
+
+    .shadow-darkpink {
+    box-shadow: 0 4px 12px -2px rgba(190, 24, 93, 0.25);
+  }
+}
+
+@layer base {
+  body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@layer components {
+  .animate-bounce-slow {
+    animation: bounce 2s infinite;
+  }
+  
+  .gradient-bg {
+    background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+  }
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c2185b;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ad1457;
+}
