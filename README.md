@@ -11,7 +11,6 @@ AI-Powered Content Optimization for Maximum Social Media Engagement
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)  
 [![Vite](https://img.shields.io/badge/Vite-5.4.2-646CFF?style=flat-square&logo=vite)](https://vitejs.dev/)
 
-[🎯 Live Demo](#) • [📖 Documentation](#features) • [🚀 Quick Start](#quick-start) • [🤝 Contributing](#contributing)
 
 </div>
 
