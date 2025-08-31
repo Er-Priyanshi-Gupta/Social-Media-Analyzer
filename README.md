@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="projects/public/webpage.png" alt="Social Media Content Analyzer" width="1200" height="400" />
+<img src="./project/public/webpage.png" alt="Social Media Content Analyzer" width="1200" height="400" />
 
 AI-Powered Content Optimization for Maximum Social Media Engagement
 
